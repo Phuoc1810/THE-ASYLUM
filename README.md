@@ -1,7 +1,9 @@
 # THE-ASYLUM
 II.	Dự án
 1	Ý tưởng game
-a.	Tên game:
+
+a.	Tên game:THE-ASYLUM
+
 b.	Thể loại:
 
 -	Kinh dị.
@@ -17,6 +19,7 @@ d.	Góc nhìn:
 
 -	Game 3D góc nhìn thứ nhất
 e.	Mục tiêu:
+
 •	Mục tiêu chính: Thoát khỏi bệnh viện.
 •	Mục tiêu phụ:
 -	Tìm kiếm manh mối.
