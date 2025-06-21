@@ -3,13 +3,18 @@ II.	Dự án
 1	Ý tưởng game
 a.	Tên game:
 b.	Thể loại:
+
 -	Kinh dị.
 -	Giải đố.
 -	Chơi đơn.
+  
 c.	Nền tảng:
+
 -	Window.
 -	Android.
+
 d.	Góc nhìn:
+
 -	Game 3D góc nhìn thứ nhất
 e.	Mục tiêu:
 •	Mục tiêu chính: Thoát khỏi bệnh viện.
